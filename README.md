@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer with 4+ years of experience developing, designing,<br>and managing complex websites. Specializes in JavaScript, ReactJS, NextJS,<br>TypeScript, and Tailwind CSS. I enjoy taking on new challenges and collaborating<br>with teams to develop innovative solutions for complex issues in web development.
+Frontend developer with 6+ years of experience developing, designing,<br>and managing complex websites. Specializes in JavaScript, ReactJS, NextJS,<br>TypeScript, and Tailwind CSS. I enjoy taking on new challenges and collaborating<br>with teams to develop innovative solutions for complex issues in web development.
 
 
 ## 🌐 Socials:
